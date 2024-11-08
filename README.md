@@ -16,7 +16,7 @@
 - **Vite**
 - **CSS**
 
-## 🔋 Features
+## 🔋 Features  &  🤖 Introduction
 
 - **User Registration**: Securely collects user information like name, email, and password through a responsive form.
 - **Data Validation**: Ensures data accuracy and uniqueness, reducing errors and improving registration flow.
