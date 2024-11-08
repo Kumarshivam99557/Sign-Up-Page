@@ -76,13 +76,13 @@ bash  <br />
 Copy code <br />
 npm run server <br />
 
-To start the frontend (React), open another terminal and run: <br />
-
+<h1>To start the frontend (React), open another terminal and run:</h1> <br />
+ 
 bash <br />
 Copy code <br />
 npm run client <br />
 
-The backend will run on http://localhost:5000, and the frontend will be available at http://localhost:3000. <br />
+ <h1> The backend will run on http://localhost:5000, and the frontend will be available at http://localhost:3000. </h1> <br />
 
  ## 🤝 Contributing <br />
 
