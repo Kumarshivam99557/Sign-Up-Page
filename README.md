@@ -1,4 +1,8 @@
 ![image](https://github.com/user-attachments/assets/da7af142-bf0b-45aa-8a5e-6ebbcc1f68d7)<div align="center">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/da7af142-bf0b-45aa-8a5e-6ebbcc1f68d7" alt="Project Banner" />
+</div>
+
 
   # Sign-Up Form Project
 
