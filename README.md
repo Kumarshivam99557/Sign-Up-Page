@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/da7af142-bf0b-45aa-8a5e-6ebbcc1f68d7)<div align="center">
   <br />
-  <a href=""C:\Users\kumar\Pictures\Screenshots\Screenshot 2024-11-09 003307.png""_blank">
+  <a href="":\Users\kumar\Pictures\Screenshots\Screenshot 2024-11-09 003307.png"_blank">
     <img src="" alt="Project Banner" />
   </a>
   <br />
