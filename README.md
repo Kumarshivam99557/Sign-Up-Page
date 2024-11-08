@@ -70,19 +70,19 @@ MONGO_URI=your_mongodb_connection_string  <br />
 JWT_SECRET=your_jwt_secret_key  <br />
 Running the Project  <br />
 
-To start the backend server (Node.js with Express), run:  <br />
+## To start the backend server (Node.js with Express), run:  <br />
 
 bash  <br />
 Copy code <br />
 npm run server <br />
 
-<h1>To start the frontend (React), open another terminal and run:</h1> <br />
+## To start the frontend (React), open another terminal and run: <br />
  
 bash <br />
 Copy code <br />
 npm run client <br />
 
- <h1> The backend will run on http://localhost:5000, and the frontend will be available at http://localhost:3000. </h1> <br />
+  The backend will run on http://localhost:5000, and the frontend will be available at http://localhost:3000.  <br />
 
  ## 🤝 Contributing <br />
 
