@@ -105,8 +105,8 @@ git push origin feature/your-feature-name
 Open a pull request.
 
 <br>📞 Contact </br>
-For any questions or feedback, feel free to reach out via:
+For any questions or feedback, feel free to reach out via: <br />
 
-Email: thecode.shivam@gmail.com
+Email: thecode.shivam@gmail.com <br />
 GitHub: Kumarshivam99557
 
