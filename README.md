@@ -62,7 +62,7 @@ npm install   <br />
 Set Up Environment Variables  <br />
 Create a new file named .env in the root directory.  <br />
 
-Add the following content, replacing the placeholders with your actual MongoDB URI and JWT secret key:  <br />
+ ##  🤸 Add the following content, replacing the placeholders with your actual MongoDB URI and JWT secret key:  <br />
 
 env  <br />
 Copy code  <br />
@@ -72,42 +72,44 @@ Running the Project  <br />
 
 To start the backend server (Node.js with Express), run:  <br />
 
-bash
-Copy code
-npm run server
-To start the frontend (React), open another terminal and run:
+bash  <br />
+Copy code <br />
+npm run server <br />
 
-bash
-Copy code
-npm run client
-The backend will run on http://localhost:5000, and the frontend will be available at http://localhost:3000.
+To start the frontend (React), open another terminal and run: <br />
 
-🤝 Contributing <br />
+bash <br />
+Copy code <br />
+npm run client <br />
 
-Contributions to enhance this project are welcome! Here’s how you can contribute:
+The backend will run on http://localhost:5000, and the frontend will be available at http://localhost:3000. <br />
 
-Fork the repository.
+ ## 🤝 Contributing <br />
 
-Create a new branch:
+Contributions to enhance this project are welcome! Here’s how you can contribute: <br />
 
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make your changes.
+Fork the repository. <br />
 
-Commit your changes:
+Create a new branch: <br />
 
-bash
-Copy code
-git commit -am 'Add new feature'
-Push to your branch:
+bash <br />
+Copy code <br />
+git checkout -b feature/your-feature-name <br />
+Make your changes. <br />
 
-bash
-Copy code
-git push origin feature/your-feature-name
-Open a pull request.
+Commit your changes: <br />
 
-<br>📞 Contact </br>
+bash <br />
+Copy code <br />
+git commit -am 'Add new feature' <br />
+Push to your branch: <br />
+
+bash <br />
+Copy code <br />
+git push origin feature/your-feature-name <br />
+Open a pull request. <br />
+
+ ## 📞 Contact <br />
 
 For any questions or feedback, feel free to reach out via: <br />
 
