@@ -1,4 +1,5 @@
-<div align="center"> <br /> <a href="https://github.com/Kumarshivam99557/PortfolioMY" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Project Banner"> </a> <br />
+<div align="center"> <br /> <a href="https://github.com/Kumarshivam99557/Sign-Up-Form" target="_blank">
+  <img src="" alt="Project Banner"> </a> <br />
 <a name="tech-stack">⚙️ Tech Stack</a>
 Node.js
 Express
@@ -8,6 +9,7 @@ Axios
 JWT (JSON Web Tokens)
 Vite
 CSS
+  
 <a name="features">🔋 Features</a>
 👉 User Registration: Collects user information like name, email, and password through a secure and responsive form.
 
@@ -26,6 +28,7 @@ CSS
 👉 Clean Footer: A minimalist design with important information and links to relevant sections.
 
 <a name="quick-start">🤸 Quick Start</a>
+
 Follow these steps to set up the project locally on your machine.
 
 Prerequisites
@@ -39,7 +42,7 @@ Cloning the Repository
 
 bash
 Copy code
-git clone https://github.com/Kumarshivam99557/PortfolioMY.git
+git clone https://github.com/Kumarshivam99557/Sign-Up-Form.git
 cd PortfolioMY
 Installation
 
@@ -81,8 +84,9 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to your branch (git push origin feature/your-feature-name).
 Open a pull request.
+
 <a name="contact">📞 Contact</a>
 For any queries or feedback, feel free to reach out via:
 
-Email: your-email@example.com
+Email: thecode.shivam@gmail.com
 GitHub: Kumarshivam99557
