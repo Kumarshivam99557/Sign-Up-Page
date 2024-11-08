@@ -52,3 +52,61 @@ Ensure you have the following installed:
    git clone https://github.com/Kumarshivam99557/Sign-Up-Form.git
    cd Sign-Up-Form
 
+Installation
+Install the project dependencies:
+
+bash
+Copy code
+npm install
+Set Up Environment Variables
+Create a new file named .env in the root directory.
+
+Add the following content, replacing the placeholders with your actual MongoDB URI and JWT secret key:
+
+env
+Copy code
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
+Running the Project
+To start the backend server (Node.js with Express), run:
+
+bash
+Copy code
+npm run server
+To start the frontend (React), open another terminal and run:
+
+bash
+Copy code
+npm run client
+The backend will run on http://localhost:5000, and the frontend will be available at http://localhost:3000.
+
+🤝 Contributing
+Contributions to enhance this project are welcome! Here’s how you can contribute:
+
+Fork the repository.
+
+Create a new branch:
+
+bash
+Copy code
+git checkout -b feature/your-feature-name
+Make your changes.
+
+Commit your changes:
+
+bash
+Copy code
+git commit -am 'Add new feature'
+Push to your branch:
+
+bash
+Copy code
+git push origin feature/your-feature-name
+Open a pull request.
+
+📞 Contact
+For any questions or feedback, feel free to reach out via:
+
+Email: thecode.shivam@gmail.com
+GitHub: Kumarshivam99557
+
