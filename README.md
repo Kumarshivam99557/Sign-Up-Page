@@ -52,7 +52,7 @@ Ensure you have the following installed:
    git clone https://github.com/Kumarshivam99557/Sign-Up-Form.git
    cd Sign-Up-Form
 
-Installation <br />
+ ##  🤸 Installation <br />
 
 Install the project dependencies: <br />
 
