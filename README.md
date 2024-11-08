@@ -104,7 +104,7 @@ Copy code
 git push origin feature/your-feature-name
 Open a pull request.
 
-📞 Contact
+<br>📞 Contact </br>
 For any questions or feedback, feel free to reach out via:
 
 Email: thecode.shivam@gmail.com
